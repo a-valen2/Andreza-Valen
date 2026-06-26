@@ -1,7 +1,7 @@
 <!-- ✨ README.md by Andreza C G Santos | SynergyXZK ✨ -->
 
 
-<h1 align="center">👋 Hey there, I'm Andreza Santos</h1>
+<h1 align="center">👋 Hey there, I'm Andreza Valen </h1>
 <h3 align="center">Founder & Tech Innovator | Bridging Blockchain, AI & Real-World Impact</h3>
 
 <p align="center">
