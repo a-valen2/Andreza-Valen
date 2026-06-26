@@ -1,16 +1,24 @@
 <!-- ========================================================= -->
-
 <!--                  Andreza Valen | SynergyXZK               -->
-
 <!-- ========================================================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1200&color=6D28D9&center=true&vCenter=true&width=900&lines=Andreza+Valen;Founder+%E2%80%A2+Systems+Architect;Building+Sovereign+Digital+Infrastructure" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=34&pause=1200&color=6D28D9&center=true&vCenter=true&width=950&lines=Andreza+Valen;Founder+%E2%80%A2+Systems+Architect;Building+Sovereign+Digital+Infrastructure" />
+
 </p>
 
 <h3 align="center">
-Blockchain • Artificial Intelligence • Zero-Knowledge Systems
+
+Founder & Chief | Systems Architect
+
 </h3>
+
+<h3  align="center">
+
+Blockchain • Artificial Intelligence • Zero-Knowledge • Digital Trust
+
+</p>
 
 <p align="center">
 
@@ -27,7 +35,7 @@ Blockchain • Artificial Intelligence • Zero-Knowledge Systems
 
 > **Invisible complexity. Visible simplicity.**
 
-I design sovereign digital infrastructure where **privacy**, **security**, **governance** and **intelligence** are embedded into the architecture from the very first principle.
+I design sovereign digital infrastructure where **privacy**, **security**, **governance** and **intelligence** are embedded into architecture from the very first principle.
 
 Technology should not demand trust.
 
@@ -37,19 +45,29 @@ Technology should **create** trust.
 
 # About
 
-Founder & CEO | Systems Architect at **SynergyXZK**, a technology ecosystem focused on building secure, privacy-preserving and AI-powered digital infrastructure.
+Founder & CEO of **SynergyXZK**, a technology ecosystem focused on building secure, privacy-preserving and AI-powered digital infrastructure.
 
 My work combines:
 
 * Artificial Intelligence
-* Blockchain
+* Blockchain Infrastructure
 * Zero-Knowledge Proofs
-* Product Strategy
 * Systems Architecture
+* Product Strategy
 * Digital Trust
 * Privacy Engineering
 
-to design technologies capable of supporting real-world applications across mobility, health, identity and next-generation digital ecosystems.
+to design technologies capable of supporting real-world applications across:
+
+* Mobility
+* Health
+* Identity
+* Human Performance
+* Next-generation digital ecosystems
+
+I believe the future will not be defined only by faster systems.
+
+It will be defined by **trusted systems**.
 
 ---
 
@@ -60,12 +78,11 @@ SynergyXZK
 
 ├── Convergence X
 │      Strategic Technology Vision
+│
+├── Privacy-first Mobility Infrastructure
 │      
 │
-├── Privacy-first Mobility
-│      
-│
-├── AI for Fitness & Health
+├── AI-powered Fitness & Health Platform
 │      
 │
 ├── AI-driven Market Intelligence
@@ -73,7 +90,7 @@ SynergyXZK
 │
 └── Identity • Governance • Trust
        
-```
+````
 
 ---
 
@@ -85,15 +102,18 @@ SynergyXZK
 * LLM Applications
 * Intelligent Automation
 * Decision Support Systems
+* AI-driven Operations
 
 ---
 
 ## Blockchain
 
 * Smart Contracts
+* Solona Ecosystem
 * Polygon Ecosystem
-* Wallet Integration
-* Tokenized Infrastructure
+* Wallet Infrastructure
+* Tokenized Systems
+* Decentralized Coordination
 
 ---
 
@@ -101,8 +121,9 @@ SynergyXZK
 
 * Privacy Infrastructure
 * Selective Disclosure
-* Identity Systems
 * Verifiable Credentials
+* Identity Systems
+* Confidential Computation
 
 ---
 
@@ -114,6 +135,7 @@ SynergyXZK
 * Authentication
 * Authorization
 * Supabase
+* Firebase
 
 ---
 
@@ -151,23 +173,23 @@ Visible Simplicity
 
 ---
 
-# Current Mission
-
-Building the next generation of trusted digital infrastructure where Artificial Intelligence and Zero-Knowledge technologies work together to empower people, organizations and ecosystems.
-
----
-
 # Founder Perspective
 
 ```text
-I believe the next generation of technology
+The next generation of technology
 will not be defined by faster systems.
 
 It will be defined by trusted systems.
 
-Systems where intelligence,
+Where intelligence,
 privacy and human autonomy coexist.
 ```
+
+---
+
+# Current Mission
+
+Building the next generation of trusted digital infrastructure where Artificial Intelligence and Zero-Knowledge technologies work together to empower people, organizations and ecosystems.
 
 ---
 
@@ -183,11 +205,11 @@ That is what I build.
 
 ---
 
-# Tech Stack
+# Technology Stack
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=solidity,ts,nodejs,nextjs,react,supabase,docker,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=solidity,ts,nodejs,nextjs,react,vercel,supabase,firebase,docker,git,github,vscode"/>
 
 </p>
 
@@ -198,11 +220,11 @@ That is what I build.
 
 <p align="center">
 
-<a href="https://linkedin.com/in/a-valen">
+<a href="https://linkedin.com/in/SEU-LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:a.valen@synergyxzk.xyz">
+<a href="mailto:SEU_EMAIL">
 <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
@@ -221,3 +243,6 @@ That is what I build.
 **SynergyXZK • Convergence X**
 
 *"The future belongs to systems that make trust native."*
+
+</p>
+```
