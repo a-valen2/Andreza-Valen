@@ -193,23 +193,6 @@ That is what I build.
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&hide_border=true&theme=transparent"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com?user=SEU_USUARIO&theme=transparent&hide_border=true"/>
-
-</p>
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=github-compact&hide_border=true"/>
-
-</p>
-
----
 
 # Connect
 
