@@ -197,8 +197,6 @@ Andreza Valen
 
 Engineering Human Trust
 
-<br><br>
-
 Building the foundations of tomorrow's digital ecosystems.
 
 </p>
