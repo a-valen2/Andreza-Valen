@@ -45,7 +45,7 @@ Technology should **create** trust.
 
 # About
 
-Founder & CEO of **SynergyXZK**, a technology ecosystem focused on building secure, privacy-preserving and AI-powered digital infrastructure.
+Founder and Chief of SynergyXZK, a technology ecosystem focused on building secure, privacy-preserving digital infrastructure driven by artificial intelligence.
 
 My work combines:
 
